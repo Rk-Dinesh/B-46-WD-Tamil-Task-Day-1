@@ -1,3 +1,5 @@
+Difference between Document & objects:-
+
 DOCUMENT:
 
 A document refers to the HTML document that is loaded in the browser. 
