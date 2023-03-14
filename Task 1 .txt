@@ -1,0 +1,14 @@
+DOCUMENT:
+
+A document refers to the HTML document that is loaded in the browser. 
+Document contains all of the content, styles, cookies and scripts that make up the web page.
+The document object represents this HTML document and provides access to its contents through various methods and properties.
+Document is a part of DOM & BOM. 
+
+
+WINDOW:
+
+A window refers to the browser window that contains the loaded document.
+Window represents the browser window as an object and provides access to its properties and methods.
+The window object is the top-level object in the browser's JavaScript hierarchy and is the starting point for most web development tasks.
+Windows is a part of DOM only.
